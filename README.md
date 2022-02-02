@@ -1,5 +1,5 @@
 # MVC-Entity-Framework-CRUD
-Learned Entity framework (code first) teachniques here - https://www.youtube.com/watch?v=Ep0sFH-2nMQ connected to a SQL 2017 server for the database opperations.
+Learned Entity framework (code first) teachniques here - https://www.youtube.com/watch?v=Ep0sFH-2nMQ and connected to a SQL 2017 server for the database opperations.
 
 The following demonstrates the created folder structure and classes along with the pruposes of those classes:
 
