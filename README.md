@@ -4,6 +4,7 @@ Learned Entity framework (code first) teachniques here - https://www.youtube.com
 The following demonstrates the created folder structure and classes along with the pruposes of those classes:
 
 Context (Folder)
+<br/>
   MVCContext - This inherits from the DbContext to create database infromation for both teachers and subjects.
 
 Services (Folder)
